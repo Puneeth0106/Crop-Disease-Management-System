@@ -149,8 +149,8 @@ crop-disease-management-system/
 
 ## 🤝 Contributors
 
-* **Dinesh Kumar Raju Kattunga** — Database Design & Implementation
-* **Puneeth Kumar Amudala** — System Architecture & Documentation
+* **Dinesh Kumar Raju Kattunga** — System Architecture & Documentation
+* **Puneeth Kumar Amudala** — Database Design & Implementation
 
 ---
 
