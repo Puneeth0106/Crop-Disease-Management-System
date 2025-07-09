@@ -19,7 +19,6 @@ A **comprehensive database-driven system** for managing crop diseases, pesticide
 - [🤝 Contributors](#-contributors)
 - [📈 Database Normalization](#-database-normalization)
 - [🔮 Future Enhancements](#-future-enhancements)
-- [📝 License](#-license)
 - [🙋 Support & Extras](#-support--extras)
 
 ---
@@ -178,16 +177,6 @@ crop-disease-management-system/
 
 ---
 
-
-## 🙋 Support & Extras
-
-Let me know if you’d like help with:
-
-* 🏷️ **GitHub badges** (e.g., MySQL | MIT License | Contributions Welcome)
-* 🧩 **A visual flowchart** showing system logic
-* 📄 **One-page PDF summary** for presentation or academic submission
-
-I'm happy to help you finalize everything! 🚀
 
 📬 For questions, connect via [GitHub](https://github.com/Puneeth0106)
 
