@@ -180,6 +180,4 @@ crop-disease-management-system/
 
 📬 For questions, connect via [GitHub](https://github.com/Puneeth0106)
 
-```
 
-```
